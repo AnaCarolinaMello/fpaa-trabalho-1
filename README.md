@@ -28,7 +28,7 @@ A Python implementation of Karatsuba's multiplication algorithm for efficient mu
        # Calcula o número de dígitos
        n = max(len(str(x)), len(str(y)))
 
-       # Se o número de dígitos for ímpar, adiciona 1. Isso é feito para garantir que os números sejam pares.
+       # Se o número de dígitos for ímpar, adiciona 1. Isso é feito para garantir que o tamanho seja par.
        if n % 2 != 0:
            n += 1
 
