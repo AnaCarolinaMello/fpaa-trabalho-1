@@ -1,6 +1,6 @@
-# Karatsuba Multiplication Algorithm
+# Algoritmo de Karatsuba
 
-A Python implementation of Karatsuba's multiplication algorithm for efficient multiplication of large numbers.
+Uma implementação em Python do algoritmo de Karatsuba para multiplicação eficiente de números grandes.
 
 ## Algoritmo
 
